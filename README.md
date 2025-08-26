@@ -31,5 +31,3 @@ The resulting HLS streams can be served efficiently using **Amazon CloudFront** 
 
 ---
 
-## 📂 Project Structure
-
